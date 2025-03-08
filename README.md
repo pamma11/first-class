@@ -1,2 +1,2 @@
 # first-class
-just a trial
+just a trial.
